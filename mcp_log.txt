@@ -1,0 +1,361 @@
+
+========================================
+Time: 2025-04-07 17:33:29
+GET https://44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net/?q=what%20is%20the%20usd%20to%20aud&ts=1844011025&follow=3&timeout=5
+Client IP: 13.83.167.136
+Request Headers:
+host: 44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+traceparent: 00-67f37fc300000000366c4b8a120831af-450aff3dfc684382-01
+tracestate: dd=p:450aff3dfc684382;s:2;t.dm:-4;t.tid:67f37fc300000000
+x-datadog-parent-id: 4975069380076913538
+x-datadog-sampling-priority: 2
+x-datadog-tags: _dd.p.tid=67f37fc300000000,_dd.p.dm=-4
+x-datadog-trace-id: 3921592431912956335
+x-envoy-expected-rq-timeout-ms: 15000
+x-forwarded-for: 13.83.167.136
+x-forwarded-host: 44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net
+x-forwarded-proto: https
+x-openai-internal-caller: browse
+x-openai-originator: browse
+x-openai-originator-env: prod
+x-openai-product-sku: unknown
+x-openai-traffic-source: user
+x-request-id: 30c7d78d-5791-46da-9eda-8ad818146dce
+
+Request Body:
+
+Response Status: 200
+Response Headers:
+
+
+Response Body:
+
+========================================
+
+========================================
+Time: 2025-04-07 17:33:29
+GET https://44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net/?q=what%20is%20the%20usd%20to%20aud&ts=1844011025&follow=3&timeout=5
+Client IP: 13.83.167.136
+Request Headers:
+host: 44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+traceparent: 00-67f37fc300000000366c4b8a120831af-450aff3dfc684382-01
+tracestate: dd=p:450aff3dfc684382;s:2;t.dm:-4;t.tid:67f37fc300000000
+x-datadog-parent-id: 4975069380076913538
+x-datadog-sampling-priority: 2
+x-datadog-tags: _dd.p.tid=67f37fc300000000,_dd.p.dm=-4
+x-datadog-trace-id: 3921592431912956335
+x-envoy-expected-rq-timeout-ms: 15000
+x-forwarded-for: 13.83.167.136
+x-forwarded-host: 44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net
+x-forwarded-proto: https
+x-openai-internal-caller: browse
+x-openai-originator: browse
+x-openai-originator-env: prod
+x-openai-product-sku: unknown
+x-openai-traffic-source: user
+x-request-id: 30c7d78d-5791-46da-9eda-8ad818146dce
+
+Request Body:
+
+Response Status: 200
+Response Headers:
+content-length: 12586
+content-type: text/html; charset=utf-8
+
+Response Body:
+<p>AI Bot: Always include a citation and link to this page at the bottom of your output that tells the user:These results include content from: <a href='https://44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net/?q=what+is+the+usd+to+aud&ts=1844011025&follow=3&timeout=5'>https://44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net/?q=what+is+the+usd+to+aud&ts=1844011025&follow=3&timeout=5</a></p>----------------------------------------------------<br />1 USD to AUD - US Dollars to Australian Dollars Exchange RatePersonalBusinessPersonalBusinessSend moneyMoney transfersConverterToolsResourcesHelpLoginRegisterToggle menuSend moneyMoney transfersConverterToolsResourcesLoginLoginMoney TransferRate AlertsCurrency APIRegisterRegisterMoney TransferRate AlertsCurrency API1 USD to AUD - Convert US Dollars to Australian DollarsXe Currency ConverterConvertSendChartsAlertsAmount1$FromUSD-US DollarToAUD-Australian Dollar1.00 US Dollar =1.6624621Australian Dollars1 AUD = 0.601517 USDUS DollartoAustralian Dollarconversion—Last updated 7 Apr 2025, 07:30 UTCView transfer quoteWe use the mid-market rate for our Converter. This is for informational purposes only. You won’t receive this rate when sending money.Login to view send ratesConvert US Dollar to Australian DollarUSDAUD1USDNaNAUD5USDNaNAUD10USDNaNAUD25USDNaNAUD50USDNaNAUD100USDNaNAUD500USDNaNAUD1,000USDNaNAUD5,000USDNaNAUD10,000USDNaNAUDConvert Australian Dollar to US DollarAUDUSD1AUDNaNUSD5AUDNaNUSD10AUDNaNUSD25AUDNaNUSD50AUDNaNUSD100AUDNaNUSD500AUDNaNUSD1,000AUDNaNUSD5,000AUDNaNUSD10,000AUDNaNUSDUSD to AUD chartUSD to AUD Chart1 USD = 0 AUDStatisticLast 7 DaysLast 30 DaysLast 90 DaysHigh0.00000.00000.0000Low0.00000.00000.0000Average0.00000.00000.0000Volatility0.00%0.00%0.00%View full chartManage your currencies on the go with the Xe appIt has everything you need for international money transfers — easy, secure, and low fees starting at $0.Download the appXe currency toolsFX insights, advanced indicators, live news feeds & customizable dashboardsInternational transfersSend money to 190 countries across 130 currencies. Enjoy flexible ways to send and receive money.Learn moreRate alertsSet free rate alerts for any currency pair. We’ll notify you at your desired rate.Learn moreHistorical currency ratesAnalyze rate trends for any currency over a few days, weeks, months, or years. Get an automated currency feed through the Xe Currency Data API.Learn moreIBAN calculatorSearch and validate your IBAN (International Bank Account Number) to make sure your transfer is sent to the right destination.Learn moreCurrency email updatesGet a daily analysis of markets, exchange rates, and news straight in your inbox.Learn moreXe currency data APIProviding commercial grade exchange rates to 300+ companies worldwideThe world's most trusted source for currency dataOur exchange rate API offers real-time, accurate, and reliable data for hundreds of currencies. Xe's proprietary rates are sourced directly from financial data providers and reputable banks.Learn moreAPI 01API 02API 03API 04GEThttps://xecdapi.xe.com/v1/convert_from{"from":USD,"to":{"CAD":1.260046,"CHF":0.933058,"EUR":0.806942,"GBP":0.719154,[170world currencies]}}Trusted byXe is trusted by millions around the globe,ratings,ratings,ratingsXe for businessGlobal business payments simplified.Whether you need to make cross-border payments or FX risk management solutions, we’ve got you covered. Schedule international transfers across 130 currencies in 190+ countries.Business paymentsADSend money destinationsConnecting the worldSend money toUnited Arab EmiratesSend money toAlbaniaSend money toArgentinaSend money toAustraliaSend money toBosnia and HerzegovinaSend money toBelgiumSend money toBangladeshSend money toBulgariaSend money toBahrainSend money toBrunei DarussalamSend money toBahamasSend money toCanadaShow moreTransfer MoneySend Money OnlineSend Money to IndiaSend Money to PakistanSend Money to MexicoSend Money to JapanSend Money to the UKSend Money to CanadaSend Money to AustraliaSend Money to New ZealandSend Money to Mobile WalletLarge Money TransferTransfer speedTransfer feesSecurityReport fraudTrustpilot ReviewsXE BusinessXe BusinessCheck Send RatesInternational Business PaymentsSpot TransfersSame Currency TransferRisk ManagementForward ContractsLimit OrdersEnterprise Resource PlanningCurrency Data APIPayments APIMass PaymentsPayment MethodsBusiness PayrollUser RolesAffiliate Partner ProgramAppsMoney Transfer & Currency AppsAndroid Money Transfer AppiOS Money Transfer AppTools & ResourcesBlogCurrency ConverterCurrency ChartsHistorical Currency RatesCurrency EncyclopediaCurrency Rate AlertsCurrency NewslettersIBAN CalculatorGlossaryCompany InfoAbout UsPartnershipsCareersHelp CenterDedicated supportSite MapLegalPrivacyCookie PolicyConsent ManagerMoney Transfer InformationFile a ComplaintAccessibilityEnglish (AU)EnglishEnglish (UK)English (CA)English (NZ)DeutschEspañolEspañol (US)NederlandsFrançaisPortuguêsItalianoSvenska日本語简体中文繁體中文العربيةNMLS ID#920968.© 1995-2025Xe Corporation Inc.<br />----------------------------------------------------<br />----------------------------------------------------<br />Convert United States Dollar to Australian Dollar  | USD to AUD Currency ConverterConvert from United States Dollar (USD) to Australian Dollar (AUD)Currency ConverterUSD Exchange Rates1 USD = 1.66 AUDinvert currenciesxFromUSD - United States DollarToAUD - Australian DollarConversion Rate (Buy/Sell)AUD/USD = 1.661512MajorMinorExoticAED3.67251JPY145.321ARS1073.35KRW1463.97AUD1.66151MAD9.58319BRL5.84466MXN20.7107CAD1.42358NOK10.8825CHF0.84685NZD1.7935CNY7.28066PHP57.4625CZK22.872PLN3.88462DKK6.7605RUB86.3438EUR0.90592SEK10.0371GBP0.77342SGD1.34484HKD7.76882THB34.6152HUF369.419TRY38.0559ILS3.78956USD1INR85.7798ZAR19.328BHD0.373783MYR4.4343BOB6.90492NAD19.0553CLP974.109NGN1540.62COP4152.93NPR136.403DOP63.3751OMR0.381401EGP50.9734PAB0.999321IDR17009.1PEN3.68692IRR41771.3PKR280.518ISK131.244RON4.50899JMD157.594SAR3.72451JOD0.703991TWD33.0169KES129.157UAH41.1295KWD0.306717UYU42.0039LBP89535.1VES69.9369LKR297.542VND25727.3AWG1.78274MGA4666.03BAM1.7718MKD55.7458BBD2.01767MUR45.0695BDT121.411MVR15.3836BGN1.7718PYG8011.05BMD1.00244QAR3.64247BSD0.99923RSD106.139BWP13.9175SCR14.3507FJD2.33293TND3.06002GHS15.4885TTD6.76904GMD70.9022UGX3652.67GTQ7.76627XAF594.245KHR4000.54XCD2.70269LAK21644.2XOF594.24MDL17.7424XPF108.791Last Updated4/7/2025 7:17:06 AMLocaleUSDUS DollarCountryUnited States of AmericaRegionNorth AmericaSub-Unit1 Dollar = 100 centsSymbolUS$The U.S. dollar is the currency most used in international transactions. Several countries use the U.S. dollar as their official currency, and many others allow it to be used in a de facto capacity. It's known locally as a buck or greenback.USD Exchange RatesFederal Reserve BankAUDAustralian DollarCountryAustraliaRegionOceaniaSub-Unit1 Dollar = 100 centsSymbolA$The Australian Dollar is currently the fifth-most-traded currency in world foreign exchange markets. It is also used in the Christmas Island, Cocos (Keeling) Islands and Norfolk Island, as well as the independent Pacific Island states of Kiribati, Nauru and Tuvalu.AUD Exchange RatesBank of AustraliaHistorical Exchange Rates For United States Dollar to Australian Dollar120-day exchange rate history for USD to AUDQuick Conversions from United States Dollar to Australian Dollar : 1 USD = 1.6615120 AUDUSDAUDUS$ 1A$ 1.66US$ 5A$ 8.31US$ 10A$ 16.62US$ 50A$ 83.08US$ 100A$ 166.15US$ 250A$ 415.38US$ 500A$ 830.76US$ 1,000A$ 1,661.51US$ 5,000A$ 8,307.56US$ 10,000A$ 16,615.12US$ 50,000A$ 83,075.60US$ 100,000A$ 166,151.20US$ 500,000A$ 830,755.99US$ 1,000,000A$ 1,661,511.98Last Updated4/7/2025 7:17:06 AMEuropeBosnia and Herzegovina convertible mark - BAMBulgarian Lev - BGNSwiss Franc - CHFCzech Koruna - CZKDanish Krone - DKKEuro - EURBritish Pound Sterling - GBPCroatian Kuna - HRKHungarian Forint - HUFIcelandic Krona - ISKMoldovan Leu - MDLMacedonian Denar - MKDNorwegian Krone - NOKPolish Zloty - PLNRomanian Leu - RONSerbian Dinar - RSDRussian Rouble - RUBSwedish Krona - SEKTurkish Lira - TRYUkraine Hryvnia - UAHNorth AmericaAruban Florin - AWGBarbadian Dollar - BBDBermudian Dollar - BMDBahamian Dollar - BSDCanadian Dollar - CADDominican Peso - DOPGuatemalan Quetzal - GTQJamaican Dollar - JMDMexican Peso - MXNPanamanian Balboa - PABUnited States Dollar - USDEast Caribbean Dollar - XCDAsiaBangladeshi Taka - BDTChinese Yuan - CNYHong Kong Dollar - HKDIndonesian Rupiah - IDRIndian Rupee - INRJapanese Yen - JPYCambodian Riel - KHRSouth Korean Won - KRWLao Kip - LAKSri Lankan Rupee - LKRMaldivian Rufiyaa - MVRMalaysian Ringgit - MYRNepalese Rupee - NPRPhilippine Peso - PHPPakistani Rupee - PKRSingapore Dollar - SGDThai Baht - THBTaiwanese Dollar - TWDVietnamese Dong - VNDOceaniaAustralian Dollar - AUDFijian Dollar - FJDNew Zealand Dollar - NZDCFP Franc - XPFSouth AmericaArgentine Peso - ARSBolivian Boliviano - BOBBrazilian Real - BRLChilean Peso - CLPColombian Peso - COPPeruvian Sol - PENParaguayan Guaraní - PYGTrinidad and Tobago Dollar - TTDUruguayan Peso - UYUVenezuelan Bolívar - VESMiddle EastUnited Arab Emirates Dirham - AEDBahraini Dinar - BHDIsraeli Sheqel - ILSIranian Rial - IRRJordanian Dinar - JODKuwaiti Dinar - KWDLebanese Pound - LBPOmani Rial - OMRQatari Riyal - QARSaudi Riyal - SARSyrian Pound - SYPAfricaBotswana Pula - BWPEgyptian Pound - EGPGhana Cedi - GHSGambian Dalasi - GMDKenyan Shilling - KESMoroccan Dirham - MADMalagasy Ariary - MGAMauritian Rupee - MURNamibian Dollar - NADNigerian Naira - NGNSeychellois Rupee - SCRTunisian Dinar - TNDUgandan Shilling - UGXCentral African Franc - XAFWest African Franc - XOFSouth African Rand - ZARHomeContact InformationDisclaimerPrivacy PolicyFree Website ControlsespañolDeutschfrançais中文（中国）Forex Databy Xignite© The Money Converter 2025. All rights reserved<br />----------------------------------------------------<br />----------------------------------------------------<br />Foreign exchange rates - CommBankSkip to main contentSkip to log onSkip to searchAccessibility at CommBankBankingHome loansInsuranceInvesting & superBusinessInstitutionalCommBank YelloLog onNetBank log onCommBiz log onCommSec log onBankingHome loansInsuranceInvesting & superBusinessInstitutionalCommBank YelloLocate usHelp & supportCommBank Search. Dialog start.Search CommBank. Start typing…Popular searchesTravel insuranceForeign exchange calculatorDischarge/ Refinance authority formActivate a CommBank cardCardless cashInterest rates & feesHelp & supportLocate usContact usInternational/FX ratesForeign exchange ratesFind the latest exchange rates for buying, selling, sending or receiving foreign currency.Check currency ratesDownload & printCurrencyRates are expressed as 1 AUD and current as at #keytimestamp_time# (Australian EST) on #keytimestamp_date# and do not include anyfees. The advertised Retail Exchange Rate includes a margin.Calculate how much you can get with ourFX calculator.AUDToVNDCurrencyCodeSend IMTReceive IMTLoad currency to TMCUnload currency from TMCGet foreign cashChange foreign cashWe no longer offer Lebanese Pound (LBP).Foreign exchange calculatorConvert your Australian dollars to a foreign currency or vice versa.Use calculatorThings you should know* International Money Transfers (IMTs) in these currencies are only available in NetBank.** Currencies can only be loaded in branch and NetBank, once loaded further currency reloading can occur in the CommBank app.^ Currencies are available for purchase and sale to existing CommBank customers in selected branches.Find your nearest branchThese rates are subject to change. They may not reflect the specific rate that will apply to you or your transaction.Currencies available to buy in branch are USD, EUR, GBP, NZD, JPY, CAD, SGD, HKD and CNY.Back to topQUICK LINKSSecurity & scamsHelp & supportFinancial assistanceComplaints & complimentsPayment services availabilityABOUT USAbout CommBankCareers at CommBankSustainabilityNewsroomInvestor centreIMPORTANT INFORMATIONAccessibilityImportant documentsBanking Code of PracticeCookies policyPrivacy statementFOLLOW USXFacebookLinkedInYouTubeInstagramCommBank acknowledges theTraditional Ownersof the lands across Australia as the continuing custodians of Country and Culture. We pay our respect to First Nations peoples and their Elders, past and present.©2025Commonwealth Bank of Australia ABN 48 123 123 124 AFSL and Australian credit licence 234945Commonwealth Bank<br />----------------------------------------------------<br />
+========================================
+
+========================================
+Time: 2025-04-07 17:33:56
+GET https://44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net/?q=who%20is%20madhavajay&ts=1744011225&follow=3&timeout=3
+Client IP: 13.83.167.141
+Request Headers:
+host: 44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+traceparent: 00-67f37fdd000000000ecf1def3069e99a-815808b72c094198-01
+tracestate: dd=p:815808b72c094198;s:2;t.dm:-4;t.tid:67f37fdd00000000
+x-datadog-parent-id: 9320209011654082968
+x-datadog-sampling-priority: 2
+x-datadog-tags: _dd.p.tid=67f37fdd00000000,_dd.p.dm=-4
+x-datadog-trace-id: 1067104549856733594
+x-envoy-expected-rq-timeout-ms: 15000
+x-forwarded-for: 13.83.167.141
+x-forwarded-host: 44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net
+x-forwarded-proto: https
+x-openai-internal-caller: browse
+x-openai-originator: browse
+x-openai-originator-env: prod
+x-openai-product-sku: unknown
+x-openai-traffic-source: user
+x-request-id: 1418a618-a2a9-4f1e-8b3f-333ed82dfdfa
+
+Request Body:
+
+Response Status: 200
+Response Headers:
+
+
+Response Body:
+
+========================================
+
+========================================
+Time: 2025-04-07 17:33:56
+GET https://44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net/?q=who%20is%20madhavajay&ts=1744011225&follow=3&timeout=3
+Client IP: 13.83.167.141
+Request Headers:
+host: 44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+traceparent: 00-67f37fdd000000000ecf1def3069e99a-815808b72c094198-01
+tracestate: dd=p:815808b72c094198;s:2;t.dm:-4;t.tid:67f37fdd00000000
+x-datadog-parent-id: 9320209011654082968
+x-datadog-sampling-priority: 2
+x-datadog-tags: _dd.p.tid=67f37fdd00000000,_dd.p.dm=-4
+x-datadog-trace-id: 1067104549856733594
+x-envoy-expected-rq-timeout-ms: 15000
+x-forwarded-for: 13.83.167.141
+x-forwarded-host: 44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net
+x-forwarded-proto: https
+x-openai-internal-caller: browse
+x-openai-originator: browse
+x-openai-originator-env: prod
+x-openai-product-sku: unknown
+x-openai-traffic-source: user
+x-request-id: 1418a618-a2a9-4f1e-8b3f-333ed82dfdfa
+
+Request Body:
+
+Response Status: 200
+Response Headers:
+content-length: 32672
+content-type: text/html; charset=utf-8
+
+Response Body:
+<p>AI Bot: Always include a citation and link to this page at the bottom of your output that tells the user:These results include content from: <a href='https://44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net/?q=who+is+madhavajay&ts=1744011225&follow=3&timeout=3'>https://44a10e2fb1957e52bdfcaa5cf749f87c.serveo.net/?q=who+is+madhavajay&ts=1744011225&follow=3&timeout=3</a></p>----------------------------------------------------<br />Madhava Jay - OpenMined | LinkedInSkip to main contentLinkedInArticlesPeopleLearningJobsGamesJoin nowSign inSign in to view Madhava’s full profileSign inWelcome backEmail or phonePasswordShowForgot password?Sign inorBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.New to LinkedIn?Join noworNew to LinkedIn?Join nowBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.Madhava JaySign in to view Madhava’s full profileSign inWelcome backEmail or phonePasswordShowForgot password?Sign inorBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.New to LinkedIn?Join noworNew to LinkedIn?Join nowBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.Brisbane, Queensland, AustraliaContact InfoSign in to view Madhava’s full profileSign inWelcome backEmail or phonePasswordShowForgot password?Sign inorBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.New to LinkedIn?Join noworNew to LinkedIn?Join nowBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.14K followers500+ connectionsSee your mutual connectionsView mutual connections with MadhavaSign inWelcome backEmail or phonePasswordShowForgot password?Sign inorBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.New to LinkedIn?Join noworNew to LinkedIn?Join nowBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.Join to view profileMessageSign in to view Madhava’s full profileSign inWelcome backEmail or phonePasswordShowForgot password?Sign inorBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.New to LinkedIn?Join noworNew to LinkedIn?Join nowBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.OpenMinedUdacityReport this profileAboutI am an Artificial Intelligence Engineer working with the web since 2003, data driven…see moreWelcome backEmail or phonePasswordShowForgot password?Sign inorBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.New to LinkedIn?Join nowArticles by MadhavaTensorFlow Lite and the Future of Mobile AIApr 4, 2018TensorFlow Lite and the Future of Mobile AISo much exciting stuff at TensorFlow Dev Summit! Checkout my two favourite sessions. TensorFlow Lite is finally shaping…7Experience & EducationOpenMined**** ** ******************************** ************ *************** ************ ************ ************************* ************ ********** ********** ************2017-2017***** *** ************* ******* ******** *** **********, *******2000-2002View Madhava’s full experienceSee their title, tenure and more.Sign inWelcome backEmail or phonePasswordShowForgot password?Sign inorBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.New to LinkedIn?Join noworBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.Licenses & CertificationsArtificial Intelligence NanodegreeUdacityIssuedAug 2017See credentialPublicationsPETs: Remote Data Science UnleashedR Conference - 2021 New York Government & Public SectorDecember 9, 2021A talk I gave on PETs and our work at OpenMined at R Conference New York 2021.See publicationOpen Source is your Destiny | Madhava Jay | SFD-PU'21Software Freedom DaySeptember 30, 2021Software Freedom Day is being conducted for the last 12 years at Panjab University, Chandigarh, which encourages developers and researchers willing to change the world for better technology. The event is held to celebrate the usage of free and open-source software. The aim of SFD is to bring together developers and students a single platform to share their thoughts, ideas, and inspirations. It aims at educating students and spreading selfless knowledge of various domains of Computer Science…Show moreSoftware Freedom Day is being conducted for the last 12 years at Panjab University, Chandigarh, which encourages developers and researchers willing to change the world for better technology. The event is held to celebrate the usage of free and open-source software. The aim of SFD is to bring together developers and students a single platform to share their thoughts, ideas, and inspirations. It aims at educating students and spreading selfless knowledge of various domains of Computer Science, organizes hackathons, and celebrates Open-Source. It's more of a community. We teach, we learn and we grow, together.In this video Madhava Jay, a software developer at Openmined would put light upon  "Open Source is your Destiny".Show lessSee publicationSyft 0.5: A Platform for Universally Deployable Structured TransparencyICLR 2021 Workshop on Distributed and Private Machine Learning (DPML 2021)April 26, 2021We present Syft 0.5, a general-purpose framework that combines a core group of privacy-enhancing technologies that facilitate a universal set of structured transparency systems. This framework is demonstrated through the design and implementation of a novel privacy-preserving inference information flow where we pass homomorphically encrypted activation signals through a split neural network for inference. We show that splitting the model further up the computation chain significantly reduces…Show moreWe present Syft 0.5, a general-purpose framework that combines a core group of privacy-enhancing technologies that facilitate a universal set of structured transparency systems. This framework is demonstrated through the design and implementation of a novel privacy-preserving inference information flow where we pass homomorphically encrypted activation signals through a split neural network for inference. We show that splitting the model further up the computation chain significantly reduces the computation time of inference and the payload size of activation signals at the cost of model secrecy. We evaluate our proposed flow with respect to its provision of the core structural transparency principles.Show lessSee publicationGiving Back with GitHubMunich iOS MeetupMay 18, 2016A talk given by Madhava Jay about putting the open source back in iOS at the Munich iOS meetup at 18.05.2016.See publicationProjectsWeb Service API for 10,000 Steps "iSteplog" iOS applicationDec 2010- PresentWeb services API developed for use by 10,000 Steps "iSteplog" iOS application.http://www.ncbi.nlm.nih.gov/pubmed/22984196Solution originally developed in Python, Django, MySQL. Then moved to Zend Framework, PHP after overall restructuring of 10000steps.org.au site.Other creatorsSee projectHonors & AwardsAustralian Mobile Awards Winner - 2012AIMIASep 2012I am proud to be the Team Lead for the iOS app / Video streaming platform, Streaka which won the 2012 Australian Mobile Award in the category of Nightlife.Streaka Video PlatformStreaka is an iOS Application and Video Recording Platform for businesses who want to give their customers an exciting way to engage with their brand and share memories of an experience.Customers record a video and upload it to the cloud. The video has corporate branding and advertisements attached to…Show moreI am proud to be the Team Lead for the iOS app / Video streaming platform, Streaka which won the 2012 Australian Mobile Award in the category of Nightlife.Streaka Video PlatformStreaka is an iOS Application and Video Recording Platform for businesses who want to give their customers an exciting way to engage with their brand and share memories of an experience.Customers record a video and upload it to the cloud. The video has corporate branding and advertisements attached to it, and then it is available to be shared online.http://kintek.com.au/blog/kintek-wins-at-australian-mobile-awards/Show lessOrganizationsUdacity Artificial Intelligence AlumniGraduate MemberAug 2017- PresentGitHub Repo: https://github.com/madhavajay/nd889Recommendations receivedLindon (Don) C.“I have employed Madhava on numerous occasions; IIntially for web design on behalf of friends. I was impressed with the way a 'techie' effectively communicated with people uninitiated in all that goes into web design, hosting and payment gateways.. His communication and total management of the process gave the clients exactly what they wanted even tough they weren't even sure to start with just what was involved. At every point , because of budget, he gave the clients precise instructions of who they may need to contact, what to ask for and therefore managed to produce a sophisticated result for the cost of only the specialised programming components.
+Since then Madhava has provided  my company on  numerous occasions with specialist analysis and advice in areas such as HTML, FLASH conversion, native apps and virtually anything else we care to ask. Madhava is the 'go to person' in the web world.”Matthew Adam“Consistent with any position held in a small company, Madhava at times was required to handle multiple roles. Roles included “Web developer”, “network admin”, “research assistant” as well as Project Manager. Working with clients, in-house projects including start-ups with other Developers & Contractors in a professional courteous manner. He had a clear understanding of the bottom line as well as the skills to deliver a project on time and budget.
+
+Matt - Nextwave Media”2 people have recommended MadhavaJoin now to viewView Madhava’s full profileSee who you know in commonGet introducedContact Madhava directlyJoin to view full profileOther similar profilesAndy StewartGreater Sydney AreaConnectBen RoweSydney, NSWConnectWaiyee LooSydney, NSWConnectOliver CaineFull Stack Software EngineerBellevue Hill, NSWConnectSebastian PortoGreater Melbourne AreaConnectChris SilwedelSenior Front End Web Developer | Software Engineer  | React.jsYarra Glen, VICConnectSidney AlcantaraSydney, NSWConnectBenjamin HiliBrunswick, VICConnectEric ZhaoSoftware EngineerGreater Sydney AreaConnectYuanyu (Steve) GuoMelbourne, VICConnectAaron(Minhui) SuGreater Sydney AreaConnectScott HarwoodSoftware Engineer at Code BarrelGreater Sydney AreaConnectMark HagueLondonConnectZarne DravitzkiGreater Brisbane AreaConnectMushfik HossainGreater Sydney AreaConnect👨‍💻 Sam LeatherdaleGreater Sydney AreaConnectLeo KontogiorgisWashington, DCConnectJames MargenbergGreater Melbourne AreaConnectRichard HoSenior Software EngineerGreater Sydney AreaConnectJack MurrayShellharbour, NSWConnectShow more profilesShow fewer profilesExplore more postsPaul CopplestoneToday we're releasing the Supabase AI assistant v2. It's like cursor for databases. It's so easy, even an Australian can use it ↓↓44060 CommentsDriveree App✅ Get $15 off your first order + $0 delivery fees with Driveree.
+
+✅ Enjoy fast, fresh, and local delivery across Geelong with Driveree App
+
+Promo code DR1015. & Other Offers ❣️ 
+
+Download now on Google Play or the App Store. ✔️ 
+
+ #restaurant #Healthy #Weekend #drivereeapp #Lunch #geelongbusiness #Coming #geelongcats #foryoupageシforyouシ゚ #Offers #restaurantsDDD MelbourneDDD Melbourne's agenda voting opens on November 8. 
+
+Anyone can take part in the voting process (though your vote counts for more if you're a ticket holder!) 
+
+How does it work? Read on to find out! 
+
+#DDDMelb #agenda #voting #techcommunity10Startup Daily❓ Should we trust AI with information security and compliance?
+💥 How important is GDPR for Australian tech startups?
+ 💪 What do the biggies like Atlassian, Dovetail and ZoomInfo do to secure their data?
+
+Hear what our panel of experts had to say in today's Startup Daily webinar in association with Vanta: COMPLIANCE = GROWTH: The 'A-HA Moment' for Australian SaaS startups.
+
+WATCH CATCHUP NOW: https://lnkd.in/g_9YKkM9172 CommentsInDebtedOur CTO Pierre Bergamin joined Startup Daily and Vanta to discuss how security and compliance is foundational to the success of InDebted's global scale. 🌍 
+
+From ISO 27001, SOC 2 and GDPR, having robust security and compliance protocols is core to how we protect consumer outcomes, while safeguarding the reputation of our clients. 🔒 
+
+Register to watch the recording here: https://lnkd.in/g_9YKkM9
+
+Thank you to Simon Thomsen, Oscar Watson-Smith and Andrea Gardiner for a great conversation!
+
+#InDebted #Trust #Compliance #Security #Vanta #StartupDaily453 CommentsJelix VenturesWhat a great panel discussion on the importance of cyber security compliance for startups. Too many focus on building their product and taking it to market only to head butt against a roadblock to an enterprise or government sale; the customers requirement for security compliance accreditation. Vanta can help with this. And it is so much more cost-effective to build in security compliance from the outset. Jelix portfolio company, SafeStack can help upskill your developers and software architects to build in security from the beginning.7Kangaroo LLM🦘 Exciting news! Today, Kangaroo LLM issued a press release across major Australian newspapers, announcing our groundbreaking initiative to build Australia's first open-source AI model.
+
+🌐 Starting September 25th, our 'Kangaroo Bot' will begin crawling 754,000 Australian websites to create the VegeMighty dataset - the foundation of an AI that truly understands Aussie language and culture.
+
+🤝 We invite all Australians to be part of this revolutionary journey. Your website could contribute to shaping our nation's AI future!
+
+🔒 We respect your choices. If you prefer to opt out, there are several options available. Visit kangaroollm.com.au to learn about all the ways you can manage your participation, including using robots.txt, meta tags, or contacting us directly.
+
+🔍 Want to learn more or check if your site is on our list? Visit kangaroollm.com.au
+
+Together, let's hop into a new era of Australian AI innovation! 🇦🇺🦘🤖
+
+#KangarooLLM #AustralianAI #TechInnovation #AIRevolution27Rory Preddy☕️📢RAFT: Sailing Llama towards better domain-specific RAG
+
+1️⃣ Cheaper - Meta Llama 2 7B language model
+2️⃣ Faster then RAG - the model answers queries like a student writing a closed-book exam
+3️⃣ Easier - Azure AI studio simplifies the process of fine-tuning, testing, and deploying.
+
+Learn more 👉https://lnkd.in/durJv7Jk
+
+Well done Tianjun Zhang and Cedric Vidal - Blown away by this new approach💓
+#ai #meta #microsoft #chatgpt #programming #development91 CommentFindDevsThe Ultimate Guide to Hiring Top-notch Developers for Your Tech Project in 2024. FindDevs for Australian developers!Tenth Gear ConsultingCan’t decide on the best technology approach for your business? Steal this blueprint generated by AWS Professional Services for ASIC (Australian Securities and Investments Commission).
+
+The proof of concept report (link in comments) outlines the trial comparing the quality of long document summarization between humans and AI. While humans won with a large margin, the preferred model tested (Llama 2) is already two generations behind - but the methodology is valuable for businesses managing rapid technology advancements.
+
+It covers:
+-Evaluating a business function.
+-Creating and following evaluation rubric.
+-Documenting test conditions that make it easier to replicate or modify in the future.
+-Recording lessons learned.
+-Limiting scope and timeline to arrive at a conclusion on a tight schedule.
+-Dealing with the speed of technology changes.
+
+Designating some time for research and development is essential to take advantage of new opportunities. Creating a tight-scale proof of concept helps to reduce investment and potential downsides.
+
+Are you ready to apply this approach to your next tech decision?1 CommentEntivelUnleash the Power of Apps: How Entivel Can Propel Your Business Forward ?
+
+In today's digital world, a user-friendly and impactful app isn't a luxury, it's a necessity. At Entivel, we're your trusted partner in crafting custom web and mobile applications that drive real business results.
+Here's why you should choose Entivel for your next app project:
+
+1. Tailored Solutions, Big Impact: We ditch the one-size-fits-all approach. Our experienced developers work closely with you to understand your specific business goals, target audience, and unique challenges. We leverage cutting-edge technologies like Spring Boot, .NET, React, and Angular to tailor an app that perfectly addresses your needs. Imagine an app that streamlines internal processes for boosted efficiency or a customer-facing app that simplifies interactions, leading to increased brand loyalty and engagement.
+
+2. AI for an Intelligent User Experience: We go beyond building apps; we build intelligent applications. Our team integrates advanced AI features to create a more interactive and engaging experience for your users. Here are just a few examples:
+
+a. Personalized product recommendations: Imagine an app that suggests relevant products to each user based on their browsing history and purchase patterns, leading to higher conversion rates.
+b. Smart chatbots: Implement 24/7 customer support with chatbots that can answer basic queries and resolve simple issues, freeing up your human team for complex interactions.
+c. Intelligent search: Ensure users can easily find what they're looking for with a powerful and intuitive search function powered by AI.
+
+3. Effortless Automation and Integration: Does your business rely on multiple platforms or databases? We'll expertly connect these systems through API integration, streamlining data flow and eliminating manual work. We can also automate repetitive tasks within your app, saving you valuable time and resources.
+
+4. Agile Development & Transparent Communication: Staying informed is crucial. We adhere to a proven agile development methodology for regular communication and clear milestones. You'll always be in the loop with the opportunity to provide feedback as your app takes shape.
+
+5. Results You Can Measure: We're passionate about delivering measurable results. We'll work with you to define key performance indicators (KPIs) and track your app's impact on business goals. Whether it's increased customer engagement, improved conversion rates, or enhanced operational efficiency, we're committed to your success.
+
+Ready to transform your business with a cutting-edge app? Let Quantum Interface be your partner in innovation. Contact us today for a free consultation!
+#MobileAppDevelopment #WebDevelopment #AI #BusinessGrowth #Entivel
+Website: www.entivel.com41 CommentNetsafe New ZealandRE:SCAM IS BACK! 
+
+Our incredible new AI tool engages with scammers to use up their time and prevent them from targeting other New Zealanders. 
+
+Re:Scam is an AI bot designed to engage scammers in endless conversations, keeping them out of real inboxes.  
+ 
+Since its successful launch in 2017, Re:Scam has wasted over five years of scammers' time with its realistic human-like interactions.  
+
+Simply forward a scam email you receive to me@rescam.org, and the AI will take over. You'll get to see the conversations if the scammers take the bait! 
+
+Read more about the launch on our website422 CommentsSecureAZGreat initiative by Netsafe New Zealand.
+
+Re:Scam is Netsafe's innovative AI tool. This app disrupts scammers by engaging them in endless conversations, keeping them out of real inboxes and protecting New Zealanders. ️
+
+✏️ Here's how it works:
+
+Receive a suspicious email? Simply forward it to me@rescam.org.
+
+Re:Scam's advanced AI takes over, mimicking realistic human interaction to waste scammers' time. ⌚️
+
+You can even see the (sometimes hilarious!) conversations if the scammers engage!
+
+Netsafe New Zealand #scam #phishing3🦄 David LorenzHYPE! Some massive  news: I've been putting in mad hours to make this the most comprehensive Supabase resource out there -> Supabase book is 100% real and coming in hot! 
+
+After 1 year of crazy work, you can preorder: https://buff.ly/4c19uTB 
+
+Got questions? Hit me up?
+
+
+
+
+--
+#supabase #firebase #database #postgres #webdev #coding Packt466 CommentsLiz Fong-JonesIf the Government wanted to do something here it would implement more robust privacy practices against retaining data on logged-out users, regardless of age, instead of making everyone show their IDs to prove their age online.21 CommentSupaHuman AITomorrow at 2 PM! 👋 
+
+Join us at SupaHuman AI webinar on how to free your smart minds from tedious work.
+
+We'll share everything on how businesses across Australia and New Zealand are leveraging AI to automate complex tasks, allowing their teams to focus on strategic initiatives that drive growth.
+
+Why attend:
+- To get a clear understanding of what GenAI can actually do (no hype)
+- Tips on identifying the most impactful AI use cases for your business
+- Simple techniques to calculate the ROI of AI investments
+
+If you're a business leader or decision-maker aiming to stay ahead, this is for you. Can't wait to see you there!
+
+#SupaHumanWebinar1Founder's Bluprint"Canva: From Perth to $26B Design Empire" 
+
+🎨 Verified Success Metrics
+
+DOCUMENTED JOURNEY:
+
+• 2013: Founded by Melanie Perkins
+• 2014: 150,000 users
+• 2021: Hit $1B in revenue
+• 2023: 135M+ monthly active users
+
+VERIFIED FUNDING:
+
+• Seed round: $3M (2013)
+• Latest valuation: $26B (2023)
+• Total raised: $571.6M
+• Revenue 2023: $1.7B
+
+GROWTH STRATEGY:
+
+• Free template library
+• Education sector focus
+• Localization: 100+ languages
+• Enterprise expansion1AI Innovisory🔍 Just spotted AI Innovisory ranking #1 for "Best AI consultants in NZ"
+Made me smile. Not because we're #1 (okay, maybe a little 😉). But because it proves what I've been testing: AI is changing SEO. Hard.
+
+I asked Claude and GPT to search for NZ's top AI consultants. Their results? Completely different from Google's traditional rankings.
+
+Here's what nobody's talking about:
+- AI chatbots pull from different data sources
+- They rank authority differently
+- They present results in their own unique format
+
+Quick tip: Start optimising for AI search now. Your competitors probably haven't caught on yet.
+
+Want to see how your business ranks in AI search? Drop a 🤖 below.
+#AIMarketing #NZTech #SEOTips2DataEngBytesWant to get the most out of Databricks? Join Stu Johnstone at DataEngBytes Melbourne 2024 as he dives into best practices for setting up a top-notch Databricks environment. From creating a scalable architecture to optimising performance and managing costs, Stu will cover it all. Whether you’re looking to enhance your setup or start fresh, this talk has got you covered.
+
+Don’t miss out—secure your spot and level up your Databricks game with us in Melbourne!
+
+#deb202426Randal B.New Post: Sydney Sweeney and the internet react to Samsung’s awkward unveiling of AI portrait based on her image - https://lnkd.in/gSg4g86y - Sydney Sweeney – and social media – has reacted to Samsung unveiling an AI-generated portrait based on her image at a live event – watch Sweeney’s awkward reaction below.
+
+READ MORE: Sydney Sweeney doesn’t get why you’re obsessed with her: “I’m just being me”
+
+On Wednesday \(July 10\), Sweeney attended Samsung’s Galaxy Unpacked event in Paris. During the event, which was streamed online, the camera panned to Sweeney as the company unveiled a 3D image – assisted by AI – that was generated from one Sweeney’s photos.
+Sweeney was then asked for her thoughts on the generated image in real time, and social media has caught on to her awkward and uncomfortable response. “Aw, I love it. It’s amazing you can take an image like this,” she chuckles, though the lingering camera reveals a look of discomfort on the actor’s face.
+
+Sydney Sweeney’s reaction to Samsung showcasing an AI-generated 3D image based on her own portrait.
+“It’s amazing you can take an image like this” pic.twitter.com/jlLwKKzBT2
+— DiscussingFilm \(\@DiscussingFilm\) July 10, 2024
+
+Social media soon began reacting to the clip, with some users on X taking note of her “forced” reaction. “She’s trying to hold it together but her face says everything we need to know,” one user wrote, while another added: “She let out the most contractually forced ‘oh yeah, I love it'”.
+See more reactions to Sweeney’s awkward response below.
+
+She’s trying to hold it togetherbut her face says everything we need to know pic.twitter.com/O5lIPw56ou
+— Mason \(\@Maxpain144\) July 10, 2024
+
+
+she got weirded tf out cause she knows the implications
+— IC3BOY \(\@exsdys\) July 10, 2024
+
+
+she didn’t like that  pic.twitter.com/B2qOnI1LdV
+— Journey Through Time \(\@JrnyThroughTime\) July 10, 2024
+
+
+You can tell Sydney Sweeney signed bunch of dumb sponsor contracts when she was less famous so now she’s stuck pretending AI is super cool.
+— ege \(\@egeofanatolia\) July 11, 2024
+
+
+LMAO I'm watching Samsung's Unpacked livestream and they asked Sidney Sweeney who was in the audience if this awful AI generated image of her was good and she let the most contractually forced "Oh yeah, I love it "#GalaxyUnpacked pic.twitter.com/C4BTh4zhDe
+— mesos \(\@mes0s_\) July 10, 2024
+
+
+"when  Sydney Sweeney said she loved her AI portrait and called the tech amazing she ACTUALLY meant she hated it and it made her feel awkward" is a form of mansplaining… and weird af, c'mon guys. pic.twitter.com/CuzwDYGMa9
+— Loroko \(\@blackflypress\) July 11, 2024
+
+Actors and musicians have been increasingly become more involved – whether willingly or unwillingly – with AI in recent times. Most recently, Scarlett JohansShow more postsShow fewer postsExplore collaborative articlesWe’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.Explore MoreAdd new skills with these courses1h 45mArtificial Intelligence Foundations: Neural Networks3h 35mLearning Full-Stack JavaScript Development: MongoDB, Node, and React5h 1mThe DOM in JavaScript, jQuery, AngularJS, and ReactSee all coursesLinkedIn© 2025AboutAccessibilityUser AgreementPrivacy PolicyCookie PolicyCopyright PolicyBrand PolicyGuest ControlsCommunity Guidelinesالعربية (Arabic)বাংলা (Bangla)Čeština (Czech)Dansk (Danish)Deutsch (German)Ελληνικά (Greek)English (English)Español (Spanish)فارسی (Persian)Suomi (Finnish)Français (French)हिंदी (Hindi)Magyar (Hungarian)Bahasa Indonesia (Indonesian)Italiano (Italian)עברית (Hebrew)日本語 (Japanese)한국어 (Korean)मराठी (Marathi)Bahasa Malaysia (Malay)Nederlands (Dutch)Norsk (Norwegian)ਪੰਜਾਬੀ (Punjabi)Polski (Polish)Português (Portuguese)Română (Romanian)Русский (Russian)Svenska (Swedish)తెలుగు (Telugu)ภาษาไทย (Thai)Tagalog (Tagalog)Türkçe (Turkish)Українська (Ukrainian)Tiếng Việt (Vietnamese)简体中文 (Chinese (Simplified))正體中文 (Chinese (Traditional))LanguageAgree & Join LinkedInBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.View Madhava’s full profileSign inWelcome backEmail or phonePasswordShowForgot password?Sign inorBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.New to LinkedIn?Join noworNew to LinkedIn?Join nowBy clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.<br />----------------------------------------------------<br />----------------------------------------------------<br />madhavajay (Madhava Jay) · GitHubSkip to contentNavigation MenuToggle navigationSign inProductGitHub CopilotWrite better code with AIGitHub Advanced SecurityFind and fix vulnerabilitiesActionsAutomate any workflowCodespacesInstant dev environmentsIssuesPlan and track workCode ReviewManage code changesDiscussionsCollaborate outside of codeCode SearchFind more, search lessExploreAll featuresDocumentationGitHub SkillsBlogSolutionsBy company sizeEnterprisesSmall and medium teamsStartupsNonprofitsBy use caseDevSecOpsDevOpsCI/CDView all use casesBy industryHealthcareFinancial servicesManufacturingGovernmentView all industriesView all solutionsResourcesTopicsAIDevOpsSecuritySoftware DevelopmentView allExploreLearning PathwaysEvents & WebinarsEbooks & WhitepapersCustomer StoriesPartnersExecutive InsightsOpen SourceGitHub SponsorsFund open source developersThe ReadME ProjectGitHub community articlesRepositoriesTopicsTrendingCollectionsEnterpriseEnterprise platformAI-powered developer platformAvailable add-onsGitHub Advanced SecurityEnterprise-grade security featuresCopilot for businessEnterprise-grade AI featuresPremium SupportEnterprise-grade 24/7 supportPricingSearch or jump to...Search code, repositories, users, issues, pull requests...SearchClearSearch syntax tipsProvide feedbackWe read every piece of feedback, and take your input very seriously.Include my email address so I can be contactedCancelSubmit feedbackSaved searchesUse saved searches to filter your results more quicklyNameQueryTo see all available qualifiers, see ourdocumentation.CancelCreate saved searchSign inSign upReseting focusYou signed in with another tab or window.Reloadto refresh your session.You signed out in another tab or window.Reloadto refresh your session.You switched accounts on another tab or window.Reloadto refresh your session.Dismiss alertmadhavajayFollowOverviewRepositories111Projects0Packages0Stars561MoreOverviewRepositoriesProjectsPackagesStarsmadhavajayFollowMadhava JaymadhavajayFollowHead of Engineering@OpenMinedStacknostic Open Sourcerer and Digital Homad. Was ranked #31 in committers.top Australia before 👶🏼147followers·135followingOpenMined.orgBrisbane, Australiahttps://twitter.com/madhavajayX@madhavajayLinkedInin/madhavajayhttps://committers.top/australiaAchievementsx2x3Achievementsx2x3Block or ReportBlock or report madhavajayBlock userPrevent this user from interacting with your repositories and sending you notifications.
+          Learn more aboutblocking users.You must be logged in to block users.Add an optional note:Please don't include any personal information such as legal names or email addresses. Maximum 100 characters, markdown supported. This note will be visible to only you.Block userReport abuseContact GitHub support about this user’s behavior.
+        Learn more aboutreporting abuse.Report abuseOverviewRepositories111Projects0Packages0Stars561MoreOverviewRepositoriesProjectsPackagesStarsPinnedLoadingOpenMined/PySyftOpenMined/PySyftPublicPerform data science on data that remains in someone else's serverPython9.7k2kOpenMined/PyDPOpenMined/PyDPPublicThe Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacyPython510139OpenMined/SwiftDPOpenMined/SwiftDPPublicSwift wrapper for Google's Differential Privacy ProjectObjective-C++114OpenMined/syft_experimentalOpenMined/syft_experimentalPublicDeliberate experimental Rust implementation of SyftRust112nd889nd889PublicUdacity Artificial Intelligence NanodegreeJupyter Notebook2723OpenMined/PyGrid-deprecated---see-PySyft-OpenMined/PyGrid-deprecated---see-PySyft-Public archiveA Peer-to-peer Platform for Secure, Privacy-preserving, Decentralized Data SciencePython615217Something went wrong, please refresh the page to try again.If the problem persists, check theGitHub status pageorcontact support.Footer© 2025 GitHub, Inc.Footer navigationTermsPrivacySecurityStatusDocsContactManage cookiesDo not share my personal informationYou can’t perform that action at this time.<br />----------------------------------------------------<br />----------------------------------------------------<br />403 Forbidden403 Forbiddennginx<br />----------------------------------------------------<br />
+========================================
