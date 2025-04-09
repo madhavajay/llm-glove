@@ -13,9 +13,11 @@
     ],
     "host_permissions": [
         "https://chat.openai.com/*",
+        "https://chatgpt.com/*",
         "https://claude.ai/*",
         "https://grok.com/*",
         "https://perplexity.ai/*",
+        "https://www.perplexity.ai/*",
         "https://copilot.microsoft.com/*",
         "https://chat.deepseek.com/*",
         "https://gemini.google.com/*"
@@ -27,12 +29,24 @@
         {
             "matches": [
                 "https://chat.openai.com/*",
+                "https://chatgpt.com/*",
                 "https://claude.ai/*",
                 "https://grok.com/*",
                 "https://perplexity.ai/*",
+                "https://www.perplexity.ai/*",
                 "https://copilot.microsoft.com/*",
                 "https://chat.deepseek.com/*",
                 "https://gemini.google.com/*"
+            ],
+            "js": [
+                "content.js",
+                "sites/chatgpt.js",
+                "sites/claude.js",
+                "sites/grok.js",
+                "sites/perplexity.js",
+                "sites/deepseek.js",
+                "sites/gemini.js",
+                "sites/copilot.js"
             ],
             "css": [
                 "styles-chatgpt.css",
@@ -42,9 +56,6 @@
                 "styles-copilot.css",
                 "styles-deepseek.css",
                 "styles-gemini.css"
-            ],
-            "js": [
-                "content.js"
             ]
         }
     ],
@@ -61,9 +72,11 @@
             ],
             "matches": [
                 "https://chat.openai.com/*",
+                "https://chatgpt.com/*",
                 "https://claude.ai/*",
                 "https://grok.com/*",
                 "https://perplexity.ai/*",
+                "https://www.perplexity.ai/*",
                 "https://copilot.microsoft.com/*",
                 "https://chat.deepseek.com/*",
                 "https://gemini.google.com/*"
@@ -72,6 +85,6 @@
     ],
     "action": {
         "default_icon": "icon.png",
-        "default_title": "Gllove Active"
+        "default_title": "ChatMCP"
     }
 }

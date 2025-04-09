@@ -10,14 +10,21 @@ chrome.runtime.onInstalled.addListener(() => {
 // Handle context menu clicks
 chrome.contextMenus.onClicked.addListener((info, tab) => {
     if (info.menuItemId === "triggerMCPButton") {
-        // Execute the triggerMCPButton function in the active tab
+        // Execute the initialization function in the active tab
         chrome.scripting.executeScript({
             target: { tabId: tab.id },
-            function: () => {
-                if (window.triggerMCPButton) {
-                    window.triggerMCPButton();
+            func: () => {
+                if (window.MCP && window.MCP.initialize) {
+                    window.MCP.initialize();
+                    window.MCP.setupObserver();
                 }
             }
         });
     }
-}); 
+});
+
+function triggerMCPButton() {
+    if (window.triggerMCPButton) {
+        window.triggerMCPButton();
+    }
+}
