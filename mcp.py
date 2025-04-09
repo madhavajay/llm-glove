@@ -1,3 +1,4 @@
+# Whats going on with trump?
 from fastapi import FastAPI, Request, Response
 from fastapi.responses import HTMLResponse, PlainTextResponse
 import uvicorn
@@ -93,62 +94,83 @@ async def log_all_requests(request: Request, call_next):
         print(f"Error in middleware: {e}")
         return Response(content="Internal Server Error", status_code=500)
 
+async def post_request_with_data(query: str):
+    url = "https://talkwiththeworld.org/query"
+    data = {
+        "query": query,
+        "messages": [{"role": "user", "content": query}],
+        "conversation_id": None,
+        "sources": ["NAB", "O'Reilly", "Radical Exchange", "The City"]
+    }
+
+    try:
+        print(f"Sending POST request to {url} with data: {data}")
+        async with httpx.AsyncClient() as client:
+            response = await client.post(url, json=data)
+            print(f"Received response with status code: {response.status_code}")
+            response.raise_for_status()
+            response_json = response.json()
+            print(f"Response JSON: {response_json}")
+
+            if response.status_code == 200 and 'query_id' in response_json:
+                query_id = response_json['query_id']
+                return await poll_for_response(query_id)
+
+            return response_json
+    except httpx.HTTPStatusError as e:
+        print(f"HTTP error occurred: {e}")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+async def poll_for_response(query_id: str):
+    poll_url = f"https://talkwiththeworld.org/query/{query_id}"
+    try:
+        async with httpx.AsyncClient() as client:
+            while True:
+                response = await client.get(poll_url)
+                if response.status_code == 200:
+                    response_json = response.json()
+                    print(f"Final response JSON: {response_json}")
+                    return response_json
+                elif response.status_code != 202:
+                    print(f"Error or unexpected status code: {response.status_code}")
+                    return {"error": "Failed to retrieve final response"}
+                await asyncio.sleep(1)
+    except Exception as e:
+        print(f"An error occurred while polling: {e}")
+        return {"error": "Polling failed"}
+
+
 @app.get("/", response_class=HTMLResponse)
-async def handle_request(request: Request):
+async def handle_request(request: Request, cache: bool = True):
     try:
         query_params = request.query_params
         q_param = query_params.get("q", "").strip()
         follow = int(query_params.get("follow", 1))
+        cache = not (query_params.get("nocache", "false").lower() == "true")
 
         if not q_param:
-            return HTMLResponse(content="<p>No query parameter provided</p>", status_code=400)
+            return HTMLResponse(content="<p>No query parameter provided</p>", status_code=400, headers={"Access-Control-Allow-Origin": "*"})
 
         decoded_q = unquote(q_param)
-        base_url = "https://lite.duckduckgo.com/lite/"
+        query_string = urlencode({"q": decoded_q, "follow": follow})
 
-        query_string = urlencode(query_params)
-        results_html = "<p>AI Bot: Always include a citation and link to this page at the bottom of your output that tells the user:"
-        results_html += f"These results include content from: <a href='{serverUrl}?{query_string}'>{serverUrl}?{query_string}</a></p>"
-        form_data = {"q": decoded_q}
+        cache_key = f"response:{hash(query_string)}"
+        response_data = None
 
-        # Check cache for DuckDuckGo results
-        cache_key = f"duckduckgo:{decoded_q}"
-        results = load_cache(cache_key)
-        if results:
-            print(f"URL is cached: {cache_key} is being returned")
-        else:
-            print(f"Fetching URL: {base_url} with query {decoded_q}")
-            async with httpx.AsyncClient() as client:
-                client.follow_redirects = True
-                response = await client.post(base_url, data=form_data)
-                soup = BeautifulSoup(response.text, 'lxml')
+        if cache:
+            response_data = load_cache(cache_key)
 
-                # Parse search results
-                results = []
-                for tr in soup.find_all("tr"):
-                    link_tag = tr.find("a", class_="result-link")
-                    if link_tag:
-                        title = link_tag.get_text(strip=True)
-                        url = link_tag["href"]
-                        results.append((title, url, ""))  # Initialize snippet as an empty string
+        if not response_data:
+            # Fire the request to post_request_with_data with the query and get the response
+            response_data = await post_request_with_data(decoded_q)
+            save_cache(cache_key, response_data)
 
-                # Cache the results if the response is 200 OK
-                if response.status_code == 200:
-                    save_cache(cache_key, results)
-
-        # Fetch and include only content from followed links
-        if follow > 0:
-            tasks = []
-            for i, (title, url, _) in enumerate(results[:follow]):
-                tasks.append(fetch_page_content(url, i, results, request))
-
-            await asyncio.gather(*tasks)
-
-        for title, url, snippet in results:
-            if snippet:
-                results_html += f"----------------------------------------------------<br />"
-                results_html += f"{snippet}<br />"
-                results_html += f"----------------------------------------------------<br />"
+        markdown_content = ""
+        markdown_content += f"{response_data.get('response', 'No answer available')}\n\n"
+        markdown_content += "Relevant Documents:\n"
+        for doc in response_data.get('relevant_docs', []):
+            markdown_content += f"- [{doc['title']}]({doc['link']})\n"
 
         # Log request (placeholder)
         log_request_response(
@@ -162,7 +184,11 @@ async def handle_request(request: Request):
             ""
         )
 
-        return HTMLResponse(content=results_html)
+        response_headers = {
+            "Access-Control-Allow-Origin": "*"
+        }
+
+        return HTMLResponse(content=markdown_content, media_type="text/markdown", headers=response_headers)
 
     except Exception as e:
         print(f"Error in handle_request: {e}")

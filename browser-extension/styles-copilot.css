@@ -1,0 +1,107 @@
+.mcp-button {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 0.875rem;
+    transition: background-color 0.2s;
+}
+
+.mcp-button:hover {
+    background-color: #106ebe;
+}
+
+.mcp-button svg {
+    margin-right: 6px;
+}
+
+.button-container-modified {
+    position: relative;
+    padding-left: 100px !important;
+}
+
+.mcp-button::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 0px #8a2be2;
+    border-radius: 4px;
+    opacity: 0;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.mcp-button.animate-glow::after {
+    animation: glow-pulse 1.5s ease-out forwards;
+}
+
+@keyframes glow-pulse {
+    0% {
+        box-shadow: 0 0 0px #8a2be2;
+        opacity: 0;
+    }
+
+    20% {
+        box-shadow: 0 0 5px #8a2be2, 0 0 15px #8a2be2;
+        opacity: 0.5;
+    }
+
+    50% {
+        box-shadow: 0 0 10px #8a2be2, 0 0 30px #9370db, 0 0 50px #9370db;
+        opacity: 0.8;
+    }
+
+    80% {
+        box-shadow: 0 0 5px #9370db, 0 0 15px #9370db;
+        opacity: 0.5;
+    }
+
+    100% {
+        box-shadow: 0 0 0px #9370db;
+        opacity: 0;
+    }
+}
+
+.mcp-overlay-copilot {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 28px;
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 10px 24px 0px;
+    z-index: 1000;
+}
+
+.mcp-spinner-copilot {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40px;
+    height: 40px;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #0078d4;
+    border-radius: 28px;
+    animation: spin 1s linear infinite;
+    z-index: 1001;
+}
+
+@keyframes spin {
+    0% {
+        transform: translate(-50%, -50%) rotate(0deg);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+    }
+}

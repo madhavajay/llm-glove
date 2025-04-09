@@ -1,0 +1,73 @@
+.mcp-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #e5e7eb;
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin-left: 0.5rem;
+}
+
+.mcp-button:hover {
+    background-color: #f3f4f6;
+    border-color: #d1d5db;
+}
+
+.mcp-button svg {
+    width: 1rem;
+    height: 1rem;
+}
+
+.button-container-modified {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.mcp-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+}
+
+.mcp-overlay-default {
+    background-color: rgba(48, 48, 48, 0.8);
+    border-radius: 28px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.mcp-spinner {
+    position: relative;
+}
+
+.mcp-spinner-default {
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}

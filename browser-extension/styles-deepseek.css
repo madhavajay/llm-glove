@@ -1,0 +1,55 @@
+/* DeepSeek specific styles */
+.mcp-button {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    background-color: transparent;
+    border: 1px solid #626262;
+    color: #F8FAFF;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    transition: background-color 0.2s;
+    margin-right: 8px;
+}
+
+.mcp-button:hover {
+    background-color: #424451;
+}
+
+.mcp-button svg {
+    width: 16px;
+    height: 16px;
+}
+
+/* Overlay styles for DeepSeek */
+.mcp-overlay-deepseek {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    border-radius: 4px;
+}
+
+.mcp-spinner-deepseek {
+    width: 24px;
+    height: 24px;
+    border: 2px solid #F8FAFF;
+    border-top-color: transparent;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
